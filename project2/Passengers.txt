@@ -1,0 +1,9 @@
+Passenger 1 is waiting for the bus at stop 2 on route Express1
+Passenger 2 is waiting for the bus at stop 3 on route Express2
+Passenger 1 is on Bus11
+Passenger 1 got off Bus11 at stop 4
+Passenger 1 is at stop 4
+Passenger 2 is on Bus21
+Passenger 2 got off Bus21 at stop 2
+Passenger 2 is at stop 2
+All passengers at their stops

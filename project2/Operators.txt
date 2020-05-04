@@ -1,0 +1,100 @@
+Position: {'timestamp': '2020-04-30 02:35:30.528530', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 73}
+Accident: {'timestamp': '2020-04-30 02:35:30.528530', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 1}
+Position: {'timestamp': '2020-04-30 02:35:30.685152', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 36}
+Position: {'timestamp': '2020-04-30 02:35:30.842708', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 85}
+Position: {'timestamp': '2020-04-30 02:35:31.251606', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 95}
+Position: {'timestamp': '2020-04-30 02:35:32.017935', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 81}
+Position: {'timestamp': '2020-04-30 02:35:32.143549', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 57}
+Position: {'timestamp': '2020-04-30 02:35:32.691084', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 33}
+Position: {'timestamp': '2020-04-30 02:35:32.848212', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 38}
+Position: {'timestamp': '2020-04-30 02:35:33.802175', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Heavy', 'fillInRatio': 64}
+Position: {'timestamp': '2020-04-30 02:35:34.023091', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 62}
+Accident: {'timestamp': '2020-04-30 02:35:34.023091', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 3}
+Position: {'timestamp': '2020-04-30 02:35:34.195629', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 79}
+Position: {'timestamp': '2020-04-30 02:35:34.260456', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 19}
+Accident: {'timestamp': '2020-04-30 02:35:34.260456', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 2}
+Position: {'timestamp': '2020-04-30 02:35:34.354204', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 81}
+Accident: {'timestamp': '2020-04-30 02:35:34.354204', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3}
+Position: {'timestamp': '2020-04-30 02:35:34.403122', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 9}
+Position: {'timestamp': '2020-04-30 02:35:35.529098', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 71}
+Position: {'timestamp': '2020-04-30 02:35:36.186334', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 24}
+Position: {'timestamp': '2020-04-30 02:35:36.344421', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 90}
+Position: {'timestamp': '2020-04-30 02:35:36.797886', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 44}
+Position: {'timestamp': '2020-04-30 02:35:37.253807', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 88}
+Position: {'timestamp': '2020-04-30 02:35:37.395467', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 56}
+Position: {'timestamp': '2020-04-30 02:35:37.538085', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 9}
+Position: {'timestamp': '2020-04-30 02:35:38.194292', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 64}
+Position: {'timestamp': '2020-04-30 02:35:38.351900', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 76}
+Position: {'timestamp': '2020-04-30 02:35:39.055025', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 21}
+Position: {'timestamp': '2020-04-30 02:35:39.510806', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 68}
+Position: {'timestamp': '2020-04-30 02:35:39.543756', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 24}
+Position: {'timestamp': '2020-04-30 02:35:39.653436', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 36}
+Position: {'timestamp': '2020-04-30 02:35:39.701362', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 17}
+Position: {'timestamp': '2020-04-30 02:35:40.342556', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 11}
+Position: {'timestamp': '2020-04-30 02:35:41.031674', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 32}
+Accident: {'timestamp': '2020-04-30 02:35:41.031674', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 3}
+Position: {'timestamp': '2020-04-30 02:35:41.704068', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 15}
+Position: {'timestamp': '2020-04-30 02:35:42.047114', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 42}
+Position: {'timestamp': '2020-04-30 02:35:42.345317', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 69}
+Accident: {'timestamp': '2020-04-30 02:35:42.345317', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3}
+Position: {'timestamp': '2020-04-30 02:35:42.503892', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 44}
+Position: {'timestamp': '2020-04-30 02:35:42.536805', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 70}
+Position: {'timestamp': '2020-04-30 02:35:42.646024', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 37}
+Position: {'timestamp': '2020-04-30 02:35:43.709155', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 34}
+Position: {'timestamp': '2020-04-30 02:35:43.850736', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 90}
+Position: {'timestamp': '2020-04-30 02:35:44.899057', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 69}
+Position: {'timestamp': '2020-04-30 02:35:45.055638', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 50}
+Position: {'timestamp': '2020-04-30 02:35:45.511419', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 79}
+Position: {'timestamp': '2020-04-30 02:35:45.544331', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Heavy', 'fillInRatio': 59}
+Position: {'timestamp': '2020-04-30 02:35:45.857135', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 30}
+Position: {'timestamp': '2020-04-30 02:35:46.701539', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 1, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Heavy', 'fillInRatio': 46}
+Position: {'timestamp': '2020-04-30 02:35:47.531320', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 54}
+Position: {'timestamp': '2020-04-30 02:35:47.750508', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 51}
+Position: {'timestamp': '2020-04-30 02:35:48.046637', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 91}
+Position: {'timestamp': '2020-04-30 02:35:48.704875', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 65}
+Position: {'timestamp': '2020-04-30 02:35:48.862461', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 2, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Heavy', 'fillInRatio': 87}
+Position: {'timestamp': '2020-04-30 02:35:49.035504', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 59}
+Position: {'timestamp': '2020-04-30 02:35:49.395336', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Heavy', 'fillInRatio': 56}
+Position: {'timestamp': '2020-04-30 02:35:50.708339', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 77}
+Position: {'timestamp': '2020-04-30 02:35:50.757195', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 40}
+Position: {'timestamp': '2020-04-30 02:35:51.039705', 'route': 'Express1', 'vehicle': 'Bus11', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 47}
+Position: {'timestamp': '2020-04-30 02:35:51.039705', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 3}
+Position: {'timestamp': '2020-04-30 02:35:51.650676', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 70}
+Accident: {'timestamp': '2020-04-30 02:35:51.650676', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 2}
+Position: {'timestamp': '2020-04-30 02:35:51.870052', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Heavy', 'fillInRatio': 58}
+Accident: {'timestamp': '2020-04-30 02:35:51.870052', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 3}
+Position: {'timestamp': '2020-04-30 02:35:52.714562', 'route': 'Express1', 'vehicle': 'Bus12', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Normal', 'fillInRatio': 92}
+Position: {'timestamp': '2020-04-30 02:35:53.013234', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 36}
+Position: {'timestamp': '2020-04-30 02:35:53.280544', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 29}
+Position: {'timestamp': '2020-04-30 02:35:53.359331', 'route': 'Express1', 'vehicle': 'Bus13', 'stopNumber': 4, 'numStops': 4, 'timeBetweenStops': 2, 'trafficConditions': 'Light', 'fillInRatio': 100}
+Position: {'timestamp': '2020-04-30 02:35:54.641677', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 64}
+Position: {'timestamp': '2020-04-30 02:35:55.267008', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 97}
+Position: {'timestamp': '2020-04-30 02:35:56.892597', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 34}
+Position: {'timestamp': '2020-04-30 02:35:57.518511', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 66}
+Position: {'timestamp': '2020-04-30 02:35:57.785795', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Heavy', 'fillInRatio': 99}
+Position: {'timestamp': '2020-04-30 02:35:59.895459', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 18}
+Position: {'timestamp': '2020-04-30 02:36:00.521235', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 21}
+Position: {'timestamp': '2020-04-30 02:36:00.789515', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 21}
+Position: {'timestamp': '2020-04-30 02:36:02.900363', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 59}
+Position: {'timestamp': '2020-04-30 02:36:03.792579', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 50}
+Position: {'timestamp': '2020-04-30 02:36:05.026648', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Heavy', 'fillInRatio': 8}
+Position: {'timestamp': '2020-04-30 02:36:05.152314', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 3}
+Position: {'timestamp': '2020-04-30 02:36:06.794871', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 84}
+Accident: {'timestamp': '2020-04-30 02:36:06.794871', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 6}
+Position: {'timestamp': '2020-04-30 02:36:08.015400', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 15}
+Accident: {'timestamp': '2020-04-30 02:36:08.015400', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 2}
+Position: {'timestamp': '2020-04-30 02:36:08.141038', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 94}
+Position: {'timestamp': '2020-04-30 02:36:09.797202', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 1, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 28}
+Position: {'timestamp': '2020-04-30 02:36:11.017929', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 46}
+Position: {'timestamp': '2020-04-30 02:36:12.049134', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 2, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 81}
+Position: {'timestamp': '2020-04-30 02:36:12.644723', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Heavy', 'fillInRatio': 83}
+Position: {'timestamp': '2020-04-30 02:36:13.270054', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 58}
+Position: {'timestamp': '2020-04-30 02:36:14.301368', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 3, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 20}
+Position: {'timestamp': '2020-04-30 02:36:15.521624', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 1}
+Position: {'timestamp': '2020-04-30 02:36:15.647293', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 56}
+Position: {'timestamp': '2020-04-30 02:36:17.304083', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 4, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 19}
+Position: {'timestamp': '2020-04-30 02:36:18.524421', 'route': 'Express2', 'vehicle': 'Bus21', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 83}
+Position: {'timestamp': '2020-04-30 02:36:18.650276', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 80}
+Position: {'timestamp': '2020-04-30 02:36:19.556387', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 5, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 68}
+Position: {'timestamp': '2020-04-30 02:36:21.651716', 'route': 'Express2', 'vehicle': 'Bus22', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Normal', 'fillInRatio': 89}
+Position: {'timestamp': '2020-04-30 02:36:21.808297', 'route': 'Express2', 'vehicle': 'Bus23', 'stopNumber': 6, 'numStops': 6, 'timeBetweenStops': 3, 'trafficConditions': 'Light', 'fillInRatio': 15}

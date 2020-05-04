@@ -1,0 +1,100 @@
+Bus11 is on route Express1 at stop 1 at 2020-04-30 02:35:30.528530
+Bus11 reported an accident on route Express1 before stop 1 at 2020-04-30 02:35:30.528530
+Bus12 is on route Express1 at stop 1 at 2020-04-30 02:35:30.685152
+Bus13 is on route Express1 at stop 1 at 2020-04-30 02:35:30.842708
+Bus21 is on route Express2 at stop 1 at 2020-04-30 02:35:31.251606
+Bus11 is on route Express1 at stop 2 at 2020-04-30 02:35:32.017935
+Bus22 is on route Express2 at stop 1 at 2020-04-30 02:35:32.143549
+Bus12 is on route Express1 at stop 2 at 2020-04-30 02:35:32.691084
+Bus13 is on route Express1 at stop 2 at 2020-04-30 02:35:32.848212
+Bus23 is on route Express2 at stop 1 at 2020-04-30 02:35:33.802175
+Bus11 is on route Express1 at stop 3 at 2020-04-30 02:35:34.023091
+Bus11 reported an accident on route Express1 before stop 3 at 2020-04-30 02:35:34.023091
+Bus12 is on route Express1 at stop 3 at 2020-04-30 02:35:34.195629
+Bus21 is on route Express2 at stop 2 at 2020-04-30 02:35:34.260456
+Bus21 reported an accident on route Express2 before stop 2 at 2020-04-30 02:35:34.260456
+Bus13 is on route Express1 at stop 3 at 2020-04-30 02:35:34.354204
+Bus13 reported an accident on route Express1 before stop 3 at 2020-04-30 02:35:34.354204
+Bus22 is on route Express2 at stop 2 at 2020-04-30 02:35:34.403122
+Bus11 is on route Express1 at stop 4 at 2020-04-30 02:35:35.529098
+Bus12 is on route Express1 at stop 4 at 2020-04-30 02:35:36.187331
+Bus13 is on route Express1 at stop 4 at 2020-04-30 02:35:36.344421
+Bus23 is on route Express2 at stop 2 at 2020-04-30 02:35:36.797886
+Bus21 is on route Express2 at stop 3 at 2020-04-30 02:35:37.253807
+Bus22 is on route Express2 at stop 3 at 2020-04-30 02:35:37.395467
+Bus11 is on route Express1 at stop 1 at 2020-04-30 02:35:37.538085
+Bus12 is on route Express1 at stop 1 at 2020-04-30 02:35:38.194292
+Bus13 is on route Express1 at stop 1 at 2020-04-30 02:35:38.351900
+Bus23 is on route Express2 at stop 3 at 2020-04-30 02:35:39.055025
+Bus21 is on route Express2 at stop 4 at 2020-04-30 02:35:39.510806
+Bus11 is on route Express1 at stop 2 at 2020-04-30 02:35:39.543756
+Bus22 is on route Express2 at stop 4 at 2020-04-30 02:35:39.653436
+Bus12 is on route Express1 at stop 2 at 2020-04-30 02:35:39.701362
+Bus13 is on route Express1 at stop 2 at 2020-04-30 02:35:40.342556
+Bus11 is on route Express1 at stop 3 at 2020-04-30 02:35:41.031674
+Bus11 reported an accident on route Express1 before stop 3 at 2020-04-30 02:35:41.031674
+Bus12 is on route Express1 at stop 3 at 2020-04-30 02:35:41.704068
+Bus23 is on route Express2 at stop 4 at 2020-04-30 02:35:42.047114
+Bus13 is on route Express1 at stop 3 at 2020-04-30 02:35:42.345317
+Bus13 reported an accident on route Express1 before stop 3 at 2020-04-30 02:35:42.345317
+Bus21 is on route Express2 at stop 5 at 2020-04-30 02:35:42.503892
+Bus11 is on route Express1 at stop 4 at 2020-04-30 02:35:42.536805
+Bus22 is on route Express2 at stop 5 at 2020-04-30 02:35:42.646024
+Bus12 is on route Express1 at stop 4 at 2020-04-30 02:35:43.709155
+Bus13 is on route Express1 at stop 4 at 2020-04-30 02:35:43.850736
+Bus22 is on route Express2 at stop 6 at 2020-04-30 02:35:44.899057
+Bus23 is on route Express2 at stop 5 at 2020-04-30 02:35:45.055638
+Bus21 is on route Express2 at stop 6 at 2020-04-30 02:35:45.511419
+Bus11 is on route Express1 at stop 1 at 2020-04-30 02:35:45.544331
+Bus13 is on route Express1 at stop 1 at 2020-04-30 02:35:45.857135
+Bus12 is on route Express1 at stop 1 at 2020-04-30 02:35:46.701539
+Bus11 is on route Express1 at stop 2 at 2020-04-30 02:35:47.531320
+Bus21 is on route Express2 at stop 1 at 2020-04-30 02:35:47.750508
+Bus23 is on route Express2 at stop 6 at 2020-04-30 02:35:48.046637
+Bus12 is on route Express1 at stop 2 at 2020-04-30 02:35:48.704875
+Bus13 is on route Express1 at stop 2 at 2020-04-30 02:35:48.862461
+Bus11 is on route Express1 at stop 3 at 2020-04-30 02:35:49.035504
+Bus22 is on route Express2 at stop 1 at 2020-04-30 02:35:49.395336
+Bus12 is on route Express1 at stop 3 at 2020-04-30 02:35:50.708339
+Bus21 is on route Express2 at stop 2 at 2020-04-30 02:35:50.757195
+Bus11 is on route Express1 at stop 4 at 2020-04-30 02:35:51.039705
+Bus23 is on route Express2 at stop 1 at 2020-04-30 02:35:51.039705
+Bus22 is on route Express2 at stop 2 at 2020-04-30 02:35:51.650676
+Bus22 reported an accident on route Express2 before stop 2 at 2020-04-30 02:35:51.650676
+Bus13 is on route Express1 at stop 3 at 2020-04-30 02:35:51.870052
+Bus13 reported an accident on route Express1 before stop 3 at 2020-04-30 02:35:51.870052
+Bus12 is on route Express1 at stop 4 at 2020-04-30 02:35:52.714562
+Bus21 is on route Express2 at stop 3 at 2020-04-30 02:35:53.013234
+Bus23 is on route Express2 at stop 2 at 2020-04-30 02:35:53.280544
+Bus13 is on route Express1 at stop 4 at 2020-04-30 02:35:53.359331
+Bus22 is on route Express2 at stop 3 at 2020-04-30 02:35:54.641677
+Bus21 is on route Express2 at stop 4 at 2020-04-30 02:35:55.267008
+Bus22 is on route Express2 at stop 4 at 2020-04-30 02:35:56.892597
+Bus21 is on route Express2 at stop 5 at 2020-04-30 02:35:57.518511
+Bus23 is on route Express2 at stop 3 at 2020-04-30 02:35:57.785795
+Bus22 is on route Express2 at stop 5 at 2020-04-30 02:35:59.895459
+Bus21 is on route Express2 at stop 6 at 2020-04-30 02:36:00.522233
+Bus23 is on route Express2 at stop 4 at 2020-04-30 02:36:00.789515
+Bus22 is on route Express2 at stop 6 at 2020-04-30 02:36:02.900363
+Bus23 is on route Express2 at stop 5 at 2020-04-30 02:36:03.792579
+Bus21 is on route Express2 at stop 1 at 2020-04-30 02:36:05.026648
+Bus22 is on route Express2 at stop 1 at 2020-04-30 02:36:05.152314
+Bus23 is on route Express2 at stop 6 at 2020-04-30 02:36:06.794871
+Bus23 reported an accident on route Express2 before stop 6 at 2020-04-30 02:36:06.794871
+Bus21 is on route Express2 at stop 2 at 2020-04-30 02:36:08.015400
+Bus21 reported an accident on route Express2 before stop 2 at 2020-04-30 02:36:08.015400
+Bus22 is on route Express2 at stop 2 at 2020-04-30 02:36:08.141038
+Bus23 is on route Express2 at stop 1 at 2020-04-30 02:36:09.797202
+Bus21 is on route Express2 at stop 3 at 2020-04-30 02:36:11.017929
+Bus23 is on route Express2 at stop 2 at 2020-04-30 02:36:12.049134
+Bus22 is on route Express2 at stop 3 at 2020-04-30 02:36:12.644723
+Bus21 is on route Express2 at stop 4 at 2020-04-30 02:36:13.270054
+Bus23 is on route Express2 at stop 3 at 2020-04-30 02:36:14.301368
+Bus21 is on route Express2 at stop 5 at 2020-04-30 02:36:15.521624
+Bus22 is on route Express2 at stop 4 at 2020-04-30 02:36:15.647293
+Bus23 is on route Express2 at stop 4 at 2020-04-30 02:36:17.304083
+Bus21 is on route Express2 at stop 6 at 2020-04-30 02:36:18.524421
+Bus22 is on route Express2 at stop 5 at 2020-04-30 02:36:18.650276
+Bus23 is on route Express2 at stop 5 at 2020-04-30 02:36:19.556387
+Bus22 is on route Express2 at stop 6 at 2020-04-30 02:36:21.651716
+Bus23 is on route Express2 at stop 6 at 2020-04-30 02:36:21.808297

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<dds version="6.0.1" xsi:noNamespaceSchemaLocation="http://community.rti.com/schema/5.2.0/rti_dds_profiles.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<!-- Qos Library -->
+	<qos_library name="qosLibrary">
+		<qos_profile name="DefaultProfile" base_name="BuiltinQosLibExp::Generic.StrictReliable" is_default_qos="true">
+		</qos_profile>
+	</qos_library>
+	
+	<!-- types -->
+	<types>
+		<struct name= "Position">
+		  <member name="timestamp" stringMaxLength="255" type="string"/>
+		  <member name="route" stringMaxLength="255" type="string"/>
+		  <member name="vehicle" stringMaxLength="255" type="string"/>
+		  <member name="stopNumber" type="int32"/>
+		  <member name="numStops" type="int32"/>
+		  <member name="timeBetweenStops" type="float64"/>
+		  <member name="trafficConditions" stringMaxLength="255" type="string"/>
+		  <member name="fillInRatio" type="int32"/>
+		</struct>
+		<struct name= "Accident">
+		  <member name="timestamp" stringMaxLength="255" type="string"/>
+		  <member name="route" stringMaxLength="255" type="string"/>
+		  <member name="vehicle" stringMaxLength="255" type="string"/>
+		  <member name="stopNumber" type="int32"/>
+		</struct>
+	</types>
+	
+	<!-- Domain Library -->
+	<domain_library name="MyDomainLibrary">
+    <domain name="BusNetworkDomain" domain_id="0">
+		<register_type name="Position"  type_ref="Position" />
+		<topic name="VehiclePosition"    register_type_ref="Position"/>
+		<register_type name="Accident"  type_ref="Accident" />
+		<topic name="VehicleAccident"    register_type_ref="Accident"/>
+	</domain>
+	</domain_library>
+	
+	<!-- Participant library -->
+	<domain_participant_library name="MyParticipantLibrary">
+		<domain_participant name="Participant" domain_ref="MyDomainLibrary::BusNetworkDomain">
+		<publisher name="Publisher">
+			<data_writer name="PositionWriter" topic_ref="VehiclePosition" />
+			<data_writer name="AccidentWriter" topic_ref="VehicleAccident" />
+		</publisher>
+		<subscriber name="Subscriber">
+			<data_reader name="PositionReader" topic_ref="VehiclePosition" />
+			<data_reader name="AccidentReader" topic_ref="VehicleAccident" />
+		</subscriber>
+		</domain_participant>
+	</domain_participant_library>
+</dds>
